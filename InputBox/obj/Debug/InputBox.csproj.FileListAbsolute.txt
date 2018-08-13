@@ -1,0 +1,22 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\InputBox\bin\Debug\InputBox.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\InputBox\bin\Debug\InputBox.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\InputBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\InputBox\obj\Debug\InputBox.InputBox.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\InputBox\obj\Debug\InputBox.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\InputBox\obj\Debug\InputBox.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\InputBox\obj\Debug\InputBox.pdb
+D:\Google Drive\MY VS PROJECTS\InputBox\bin\Debug\InputBox.dll
+D:\Google Drive\MY VS PROJECTS\InputBox\bin\Debug\InputBox.pdb
+D:\Google Drive\MY VS PROJECTS\InputBox\obj\Debug\InputBox.csprojResolveAssemblyReference.cache
+D:\Google Drive\MY VS PROJECTS\InputBox\obj\Debug\InputBox.InputBox.resources
+D:\Google Drive\MY VS PROJECTS\InputBox\obj\Debug\InputBox.csproj.GenerateResource.Cache
+D:\Google Drive\MY VS PROJECTS\InputBox\obj\Debug\InputBox.dll
+D:\Google Drive\MY VS PROJECTS\InputBox\obj\Debug\InputBox.pdb
+C:\CODE\C#\InputBox\bin\Debug\InputBox.dll
+C:\CODE\C#\InputBox\bin\Debug\InputBox.pdb
+C:\CODE\C#\InputBox\obj\Debug\InputBox.csprojResolveAssemblyReference.cache
+C:\CODE\C#\InputBox\obj\Debug\InputBox.InputBox.resources
+C:\CODE\C#\InputBox\obj\Debug\InputBox.csproj.GenerateResource.cache
+C:\CODE\C#\InputBox\obj\Debug\InputBox.csproj.CoreCompileInputs.cache
+C:\CODE\C#\InputBox\obj\Debug\InputBox.dll
+C:\CODE\C#\InputBox\obj\Debug\InputBox.pdb

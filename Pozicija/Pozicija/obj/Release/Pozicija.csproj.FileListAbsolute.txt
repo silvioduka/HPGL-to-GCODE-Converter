@@ -1,0 +1,7 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Pozicija\Pozicija\bin\Release\Pozicija.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Pozicija\Pozicija\bin\Release\Pozicija.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Pozicija\Pozicija\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Pozicija\Pozicija\obj\Release\Pozicija.Poz.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Pozicija\Pozicija\obj\Release\Pozicija.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Pozicija\Pozicija\obj\Release\Pozicija.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Pozicija\Pozicija\obj\Release\Pozicija.pdb

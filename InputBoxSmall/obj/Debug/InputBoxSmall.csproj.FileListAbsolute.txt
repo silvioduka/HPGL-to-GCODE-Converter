@@ -1,0 +1,15 @@
+D:\Google Drive\MY VS PROJECTS\InputBoxSmall\bin\Debug\InputBoxSmall.dll
+D:\Google Drive\MY VS PROJECTS\InputBoxSmall\bin\Debug\InputBoxSmall.pdb
+D:\Google Drive\MY VS PROJECTS\InputBoxSmall\obj\Debug\InputBoxSmall.csprojResolveAssemblyReference.cache
+D:\Google Drive\MY VS PROJECTS\InputBoxSmall\obj\Debug\InputBoxSmall.InputBoxSmall.resources
+D:\Google Drive\MY VS PROJECTS\InputBoxSmall\obj\Debug\InputBoxSmall.csproj.GenerateResource.Cache
+D:\Google Drive\MY VS PROJECTS\InputBoxSmall\obj\Debug\InputBoxSmall.dll
+D:\Google Drive\MY VS PROJECTS\InputBoxSmall\obj\Debug\InputBoxSmall.pdb
+C:\CODE\C#\InputBoxSmall\bin\Debug\InputBoxSmall.dll
+C:\CODE\C#\InputBoxSmall\bin\Debug\InputBoxSmall.pdb
+C:\CODE\C#\InputBoxSmall\obj\Debug\InputBoxSmall.csprojResolveAssemblyReference.cache
+C:\CODE\C#\InputBoxSmall\obj\Debug\InputBoxSmall.InputBoxSmall.resources
+C:\CODE\C#\InputBoxSmall\obj\Debug\InputBoxSmall.csproj.GenerateResource.cache
+C:\CODE\C#\InputBoxSmall\obj\Debug\InputBoxSmall.csproj.CoreCompileInputs.cache
+C:\CODE\C#\InputBoxSmall\obj\Debug\InputBoxSmall.dll
+C:\CODE\C#\InputBoxSmall\obj\Debug\InputBoxSmall.pdb

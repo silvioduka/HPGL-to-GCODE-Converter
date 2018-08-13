@@ -1,0 +1,7 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\InputBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\InputBox\obj\Debug\InputBox.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\InputBox\bin\Debug\InputBox.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\InputBox\bin\Debug\InputBox.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\InputBox\obj\Debug\InputBox.InputBox.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\InputBox\obj\Debug\InputBox.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\InputBox\obj\Debug\InputBox.pdb

@@ -1,0 +1,7 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\InputBoxSmall\bin\Release\InputBox.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\InputBoxSmall\bin\Release\InputBox.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\InputBoxSmall\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\InputBoxSmall\obj\Release\InputBox.InputBoxSmall.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\InputBoxSmall\obj\Release\InputBoxSmall.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\InputBoxSmall\obj\Release\InputBox.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\InputBoxSmall\obj\Release\InputBox.pdb

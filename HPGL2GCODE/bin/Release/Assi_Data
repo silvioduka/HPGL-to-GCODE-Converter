@@ -1,0 +1,15 @@
+ORIG;Origine macchina (step);0;0;0
+FINUP;Finecorsa superiore (mm);300;300;10
+FINDW;Finecorsa inferiore (mm);-1;-1;-1
+NRT;Numero impulsi motore (imp);96;96;96
+DRT;Lunghezza sviluppo vite (mm);1.0000;1.0000;1.0000
+VMAX;Velocit massima posizionamento (step/sec);10000;5000;5000
+MACC;Accelerazione massima (step/sec^2);200;200;200
+MVP;Max. velocit posizionamento (step/min);12000;12000;12000
+MVI;Max. velocit interpolazione (step/min);600;600;600
+VJR;Velocit manuale rapida (step/sec);2400;2400;2400
+VJL;Velocit manuale lenta (step/sec);240;240;240
+VAZZ;Velocit azzeramento (step/min);5000;5000;5000
+QRIP;Quota di parcheggio (step);-10;-10;-10
+MVE;Massima velocit angolare di interpolazione (grd/sec);200;200;200
+DATO51;Modulo asse roll-over (step);0;0;0
